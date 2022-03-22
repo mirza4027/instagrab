@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Cloudoki\\Instagrab\\InstaGrabServiceProvider"
+                "Cloudoki\\InstaGrab\\InstaGrabServiceProvider"
             ]
         }
     }
