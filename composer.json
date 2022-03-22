@@ -1,0 +1,19 @@
+{
+    "name": "cloudoki/instagrab",
+    "description": "A test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cloudoki\\Instagrab\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdul Ahad Mirza",
+            "email": "abdul.ahadmirza@ilsainteractive.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
